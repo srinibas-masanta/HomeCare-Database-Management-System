@@ -1,0 +1,101 @@
+Employment_Dates,JobTitle,Description,WorkerID
+2018-01-01 to 2020-12-31,Medical Assistant,Assisted doctors and nurses in patient care.,1
+2019-02-15 to 2021-03-20,Registered Nurse,Provided direct patient care and administered medications.,2
+2017-09-10 to 2022-01-05,Physical Therapist,Designed and implemented rehabilitation programs.,3
+2020-05-01 to 2023-06-30,Occupational Therapist,Helped patients with daily living activities and rehabilitation exercises.,4
+2016-08-12 to 2019-11-30,Home Health Aide,Assisted elderly clients with personal care and household tasks.,5
+2018-03-20 to 2022-04-25,Speech-Language Pathologist,Evaluated and treated communication and swallowing disorders.,6
+2019-07-01 to 2023-08-15,Medical Assistant,Performed administrative and clinical tasks in a medical office.,7
+2017-11-05 to 2020-12-10,Registered Nurse,Managed and coordinated patient care plans.,8
+2016-10-15 to 2019-12-20,Physical Therapist,Provided physical therapy services and rehabilitation.,9
+2018-12-01 to 2022-01-30,Occupational Therapist,Assessed and treated patients to enhance their daily living skills.,10
+2019-02-28 to 2023-04-05,Home Health Aide,Assisted individuals with personal care and light housekeeping.,11
+2017-05-10 to 2021-06-15,Speech-Language Pathologist,Provided speech and language therapy to children and adults.,12
+2018-09-03 to 2022-10-20,Medical Assistant,Assisted in patient examinations and routine procedures.,13
+2017-06-20 to 2020-09-25,Registered Nurse,Managed medication administration and patient education.,14
+2019-08-05 to 2023-09-10,Physical Therapist,Developed and implemented personalized treatment plans.,15
+2018-11-12 to 2022-12-15,Occupational Therapist,Assisted patients in improving daily living and work skills.,16
+2016-12-25 to 2020-01-30,Home Health Aide,Provided personal care and emotional support to clients.,17
+2018-04-18 to 2022-05-22,Speech-Language Pathologist,Conducted assessments and provided therapy for speech disorders.,18
+2019-07-20 to 2023-08-25,Medical Assistant,Managed medical records and assisted in patient care.,19
+2017-08-10 to 2021-09-15,Registered Nurse,Coordinated care plans and supervised nursing staff.,20
+2018-10-05 to 2022-11-10,Physical Therapist,Provided therapeutic exercises and modalities.,21
+2019-03-30 to 2023-05-05,Occupational Therapist,Helped patients regain daily living and work skills.,22
+2017-04-12 to 2021-05-17,Home Health Aide,Assisted clients with personal care and household tasks.,23
+2018-06-01 to 2022-07-06,Speech-Language Pathologist,Evaluated and treated speech and language disorders.,24
+2019-09-25 to 2023-10-30,Medical Assistant,Assisted in patient intake and performed basic clinical tasks.,25
+2017-10-20 to 2021-11-25,Registered Nurse,Managed patient care plans and oversaw treatments.,26
+2018-12-15 to 2023-01-20,Physical Therapist,Designed personalized exercise programs for patients.,27
+2019-05-05 to 2023-06-10,Occupational Therapist,Assisted patients in regaining independence in daily tasks.,28
+2017-07-03 to 2021-08-08,Home Health Aide,Provided assistance with personal care and household chores.,29
+2020-01-10 to 2024-02-15,Speech-Language Pathologist,Evaluated and treated speech and communication disorders.,30
+2018-08-18 to 2022-09-23,Medical Assistant,Assisted physicians and maintained patient records.,31
+2017-09-15 to 2021-10-20,Registered Nurse,Provided direct patient care and medication administration.,32
+2019-01-20 to 2023-02-25,Physical Therapist,Conducted assessments and provided therapeutic exercises.,33
+2018-06-05 to 2022-07-10,Occupational Therapist,Assisted patients in adapting to daily living tasks.,34
+2017-05-02 to 2021-06-07,Home Health Aide,Supported elderly clients with daily activities and personal care.,35
+2020-03-20 to 2024-04-25,Speech-Language Pathologist,Evaluated and treated speech and language disorders.,36
+2018-10-12 to 2022-11-17,Medical Assistant,Assisted in patient care and managed administrative tasks.,37
+2017-11-25 to 2022-01-30,Registered Nurse,Managed patient care and coordinated treatment plans.,38
+2019-03-10 to 2023-04-15,Physical Therapist,Provided rehabilitation and therapeutic interventions.,39
+2018-07-15 to 2022-08-20,Occupational Therapist,Helped patients in adapting to workplace demands.,40
+2017-06-08 to 2021-07-13,Home Health Aide,Assisted clients with personal care and household duties.,41
+2019-12-01 to 2024-01-06,Speech-Language Pathologist,Conducted evaluations and provided speech therapy.,42
+2018-09-28 to 2022-11-02,Medical Assistant,Assisted in patient care and managed front office tasks.,43
+2017-10-15 to 2021-11-20,Registered Nurse,Managed patient care and provided education.,44
+2019-02-25 to 2023-04-01,Physical Therapist,Designed and implemented individualized treatment plans.,45
+2018-08-10 to 2022-09-15,Occupational Therapist,Assisted patients in improving daily living skills.,46
+2017-07-05 to 2021-08-10,Home Health Aide,Provided support with daily living activities for clients.,47
+2020-02-10 to 2024-03-15,Speech-Language Pathologist,Conducted assessments and provided therapy.,48
+2018-11-18 to 2023-01-23,Medical Assistant,Performed clinical tasks and managed patient records.,49
+2017-12-20 to 2022-01-25,Registered Nurse,Supervised nursing staff and managed patient care.,50
+2019-04-15 to 2023-05-20,Physical Therapist,Provided therapeutic exercises and treatments.,51
+2018-07-20 to 2022-08-25,Occupational Therapist,Assisted patients in improving daily living tasks.,52
+2017-06-12 to 2021-07-17,Home Health Aide,Assisted clients with personal care and household chores.,53
+2020-04-20 to 2024-05-25,Speech-Language Pathologist,Evaluated and treated speech disorders.,54
+2018-09-05 to 2022-10-10,Medical Assistant,Managed patient intake and performed clinical tasks.,55
+2017-10-25 to 2021-11-30,Registered Nurse,Supervised patient care and administered medications.,56
+2019-01-30 to 2023-03-06,Physical Therapist,Designed and implemented personalized treatment plans.,57
+2018-06-15 to 2022-07-20,Occupational Therapist,Assisted patients in achieving independent living.,58
+2017-05-20 to 2021-06-25,Home Health Aide,Provided assistance with daily living activities.,59
+2020-05-30 to 2024-07-04,Speech-Language Pathologist,Evaluated and treated communication disorders.,60
+2018-11-28 to 2023-01-02,Medical Assistant,Assisted in patient care and managed administrative tasks.,61
+2017-12-05 to 2022-01-10,Registered Nurse,Managed patient care plans and supervised staff.,62
+2019-04-20 to 2023-05-25,Physical Therapist,Provided rehabilitation services and therapeutic exercises.,63
+2018-08-25 to 2022-09-30,Occupational Therapist,Assisted patients in improving daily living skills.,64
+2017-07-20 to 2021-08-25,Home Health Aide,Assisted clients with personal care and household tasks.,65
+2020-02-25 to 2024-04-01,Speech-Language Pathologist,Evaluated and treated speech and language disorders.,66
+2018-12-10 to 2023-01-15,Medical Assistant,Assisted in patient care and managed front office tasks.,67
+2017-11-15 to 2022-12-20,Registered Nurse,Managed patient care and coordinated treatment plans.,68
+2019-03-20 to 2023-04-25,Physical Therapist,Provided rehabilitation and therapeutic interventions.,69
+2018-07-10 to 2022-08-15,Occupational Therapist,Helped patients in adapting to workplace demands.,70
+2017-06-05 to 2021-07-10,Home Health Aide,Assisted clients with personal care and household duties.,71
+2019-12-20 to 2024-01-25,Speech-Language Pathologist,Conducted evaluations and provided speech therapy.,72
+2018-09-15 to 2023-01-20,Medical Assistant,Assisted in patient care and managed administrative tasks.,73
+2017-10-10 to 2022-11-15,Registered Nurse,Managed patient care and coordinated treatment plans.,74
+2019-02-20 to 2023-03-25,Physical Therapist,Designed and implemented individualized treatment plans.,75
+2018-08-05 to 2022-09-10,Occupational Therapist,Assisted patients in improving daily living skills.,76
+2017-07-01 to 2021-08-06,Home Health Aide,Provided support with daily living activities for clients.,77
+2020-01-15 to 2024-02-20,Speech-Language Pathologist,Evaluated and treated speech and communication disorders.,78
+2018-08-18 to 2022-09-23,Medical Assistant,Assisted physicians and maintained patient records.,79
+2017-09-20 to 2021-10-25,Registered Nurse,Provided direct patient care and medication administration.,80
+2019-01-25 to 2023-02-28,Physical Therapist,Conducted assessments and provided therapeutic exercises.,81
+2018-06-10 to 2022-07-15,Occupational Therapist,Assisted patients in adapting to daily living tasks.,82
+2017-05-05 to 2021-06-10,Home Health Aide,Supported elderly clients with daily activities and personal care.,83
+2020-03-25 to 2024-04-30,Speech-Language Pathologist,Evaluated and treated speech and language disorders.,84
+2018-11-28 to 2023-01-02,Medical Assistant,Performed clinical tasks and managed patient records.,85
+2017-12-20 to 2022-01-25,Registered Nurse,Supervised nursing staff and managed patient care.,86
+2019-04-15 to 2023-05-20,Physical Therapist,Provided therapeutic exercises and treatments.,87
+2018-07-20 to 2022-08-25,Occupational Therapist,Assisted patients in improving daily living tasks.,88
+2017-06-12 to 2021-07-17,Home Health Aide,Assisted clients with personal care and household chores.,89
+2020-04-20 to 2024-05-25,Speech-Language Pathologist,Evaluated and treated speech disorders.,90
+2018-09-05 to 2022-10-10,Medical Assistant,Managed patient intake and performed clinical tasks.,91
+2017-10-25 to 2021-11-30,Registered Nurse,Supervised patient care and administered medications.,92
+2019-01-30 to 2023-03-06,Physical Therapist,Designed and implemented personalized treatment plans.,93
+2018-06-15 to 2022-07-20,Occupational Therapist,Assisted patients in achieving independent living.,94
+2017-05-20 to 2021-06-25,Home Health Aide,Provided assistance with daily living activities.,95
+2020-05-30 to 2024-07-04,Speech-Language Pathologist,Evaluated and treated communication disorders.,96
+2018-11-28 to 2023-01-02,Medical Assistant,Assisted in patient care and managed administrative tasks.,97
+2017-12-05 to 2022-01-10,Registered Nurse,Managed patient care plans and supervised staff.,98
+2019-04-20 to 2023-05-25,Physical Therapist,Provided rehabilitation services and therapeutic exercises.,99
+2018-08-25 to 2022-09-30,Occupational Therapist,Assisted patients in improving daily living skills.,100
